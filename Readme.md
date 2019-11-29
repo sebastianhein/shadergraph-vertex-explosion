@@ -1,4 +1,4 @@
-# Vertex Explosion effect (prove of concept)
+# Vertex Explosion effect (proof of concept)
 
 ![](explode.png)
 
